@@ -1,7 +1,7 @@
 # News-Website
 
-<!-- ## Motivation -->
 The motivation behind building the News Website was to create a user-friendly platform that enables individuals to stay informed about the latest news across various categories. In today's fast-paced world, having quick and easy access to reliable news sources is crucial. This project aimed to provide a convenient solution for users to browse and search for news articles according to their interests.
+
 
 ## Standout Features
 The News Website stands out due to the following features:
@@ -10,6 +10,9 @@ The News Website stands out due to the following features:
 * **Search Functionality:** The website offers a robust search feature that enables users to search for news articles based on specific keywords, allowing for quick access to relevant information.For easy search operations, users can simply press the ENTER key instead of clicking the search button. This allows for a more seamless and intuitive search experience.
 * **Sorting Options:** Users have the flexibility to sort news articles by date published (newest first), relevancy to the search keyword, or popularity of the source, providing personalized content browsing.
 *  **Read Full Articles:** To dive deeper into any news article, simply click on it. The News Website opens the selected article in a new tab, allowing users to access the full content without leaving the website. This feature enables seamless reading and provides a convenient way to explore the details and context of the news articles that pique their interest.
+*  To get a visual demonstration of the News Website and see how it works, you can watch this video showcasing the browsing experience: [News Website Browsing Demo](https://drive.google.com/drive/folders/1KhinCNmCN_zQrnfAlBWOBWtDJPEmLYvD). The video provides an interactive walkthrough of the website, allowing you to see its features and functionality in action.
+
+
 
 ## Technologies Used
 * HTML
