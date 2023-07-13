@@ -29,3 +29,8 @@ During the development of this project, several key learnings were gained, inclu
 1) Clone the repository to your local machine using the command git clone https://github.com/hanaheshamm/News-Website.git.
 2) Open the index.html file in a web browser.
 3) Upon loading, the website will display the latest articles from the default category, which is set to "Egypt".
+
+## Notes
+* Please note that due to limitations of the API, search results may occasionally display articles that are not directly relevant to the search query. We strive to provide the most accurate and relevant results, but some variations may occur.
+
+* Kindly wait for approximately 1 minute for the news content to fully reload. This ensures that you have the most up-to-date and comprehensive collection of news articles available for browsing.
