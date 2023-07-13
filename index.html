@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>News Website</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+
+<body>
+
+    <header>
+        <div class="header-container">
+            <img src="news-website3.png" alt="News Website Logo" class="logo" onclick="reload()">
+        <nav>
+            <ul class="list-edit">
+                <li><a id="Egypt" onclick="onNavItemClick('Egypt')" class="nav-item active">Home</a></li>
+                <li><a id="politics" onclick="onNavItemClick('politics')" class="nav-item">Politics</a></li>
+                <li><a id="sports" onclick="onNavItemClick('sports')" class="nav-item">Sports</a></li>
+                <li><a id="technology" onclick="onNavItemClick('technology')" class="nav-item">Technology</a></li>
+                <li><a id="entertainment" onclick="onNavItemClick('entertainment')" class="nav-item">Entertainment</a></li>
+
+                <li class="search-container">
+                    <div class="search-box">
+                        <!-- <input type="text" placeholder="Search News"> -->
+                        <input type="text" placeholder="e.g Health" id="search-text">
+                        <button type="submit" id="search-button">Search</button>
+                    </div>
+                </li>    
+            </ul>
+        </nav>
+        </div>
+
+    </header>
+
+
+    <section class="main-section">
+<!-- 
+        <article>
+            <h2>Breaking News!</h2>
+            <div class="grid-container-total" id="breaking-news-container">
+            </div>
+        </article> -->
+        <article>
+            <h2>Latest Articles</h2>
+            <div class="sort-by">
+                <label for="sort-select">Sort By:</label>
+                <select id="sort-by-dropdown">
+                  <!-- <option value="date-desc" id="date-desc" onclick="onSortDataClick('publishedAt')">Date Published (Newest First)</option>
+                  <option value="relevancy" id="relevancy" onclick="onSortDataClick('relevancy')">Relevancy to Search Keyword</option>
+                  <option value="popularity" id="popularity" onclick="onSortDataClick('popularity')">Popularity of Source</option> -->
+                  <option value="notChoosen">Please choose sorting option: </option>
+                  <option value="date-desc" id="date-desc" >Date Published (Newest First)</option>
+                  <option value="relevancy" id="relevancyyy" >Relevancy to Search Keyword</option>
+                  <option value="popularity" id="popularity" >Popularity of Source</option>
+                </select>
+              </div>
+            </div>
+
+        <div class="grid-container-total" id="grid-container-total">
+            
+        </div>
+    </section>
+
+
+    <template id="grid-template" class="grid-template">
+
+            <div class="grid-container" id="grid-container">
+                <div class="grid-item">
+                    <!-- <img src="https://via.placeholder.com/800x534" alt="News 1"> -->
+                    <img src="https://via.placeholder.com/400x200" alt="News 1" id="news-img">
+                    <div class="news-description-total">
+                    <h3 id="news-title">This is the title</h3>
+                    <h6 id="news-date">This is the date 7/7/2023</h6>
+                    <p class="news-description" id="news-description"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam asperiores eum accusantium eligendi aliquid perferendis laborum ea possimus temporibus tenetur quae dolorem, fuga omnis. Natus nisi consectetur reiciendis sunt doloremque!</p>
+                </div> 
+                </div>
+    
+            </div>
+        </article>
+    </template>
+
+
+    <footer>
+        <p>&copy; 2023 News Website. All rights reserved.</p>
+    </footer>
+
+<script src="index.js"></script>
+
+</body>
+</html>
