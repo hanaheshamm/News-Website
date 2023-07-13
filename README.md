@@ -21,9 +21,7 @@ The News Website stands out due to the following features:
 During the development of this project, several key learnings were gained, including:
 
 1) Understanding and integrating APIs: The project involved working with the News API to fetch news data and handle API requests effectively.
-<br>
 2) Front-end web development: Building the user interface using HTML, CSS, and JavaScript provided valuable experience in creating responsive and visually appealing web pages.
-<br>
 3) Data manipulation and display: Processing and displaying news articles in a visually appealing grid format required data manipulation and understanding of DOM manipulation techniques.
 
 ## How to Use:
