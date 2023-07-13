@@ -1,5 +1,4 @@
 # News-Website
-# News-Website
 
 <!-- ## Motivation -->
 The motivation behind building the News Website was to create a user-friendly platform that enables individuals to stay informed about the latest news across various categories. In today's fast-paced world, having quick and easy access to reliable news sources is crucial. This project aimed to provide a convenient solution for users to browse and search for news articles according to their interests.
