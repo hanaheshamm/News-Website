@@ -106,6 +106,7 @@ function onNavItemClick(id){
     cursorSelected= navItem;
     cursorSelected.classList.add('active');
     sortByDropdown.value = "notChoosen";
+    searchText.value="";
 
 
 sortByDropdown.addEventListener("change" ,function() {
