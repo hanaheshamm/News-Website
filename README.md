@@ -10,7 +10,18 @@ The News Website stands out due to the following features:
 * **Search Functionality:** The website offers a robust search feature that enables users to search for news articles based on specific keywords, allowing for quick access to relevant information.For easy search operations, users can simply press the ENTER key instead of clicking the search button. This allows for a more seamless and intuitive search experience.
 * **Sorting Options:** Users have the flexibility to sort news articles by date published (newest first), relevancy to the search keyword, or popularity of the source, providing personalized content browsing.
 *  **Read Full Articles:** To dive deeper into any news article, simply click on it. The News Website opens the selected article in a new tab, allowing users to access the full content without leaving the website. This feature enables seamless reading and provides a convenient way to explore the details and context of the news articles that pique their interest.
-*  To get a visual demonstration of the News Website and see how it works, you can watch this video showcasing the browsing experience: [News Website Browsing Demo](https://drive.google.com/drive/folders/1KhinCNmCN_zQrnfAlBWOBWtDJPEmLYvD). The video provides an interactive walkthrough of the website, allowing you to see its features and functionality in action.
+
+## Website Browsing Demo  
+ To get a visual demonstration of the News Website and see how it works, you can watch this video showcasing the browsing experience: [News Website Browsing Demo](https://drive.google.com/drive/folders/1KhinCNmCN_zQrnfAlBWOBWtDJPEmLYvD). The video provides an interactive walkthrough of the website, allowing you to see its features and functionality in action.
+
+## Screenshots
+![image](https://github.com/hanaheshamm/News-Website/assets/115111861/81e8f8f1-5e28-46cf-b4dc-c962ea9ff602)
+
+![image](https://github.com/hanaheshamm/News-Website/assets/115111861/05a78949-7c99-4229-a1b9-87aac8d6f3b9)
+
+User can search for any topic he wants:
+![image](https://github.com/hanaheshamm/News-Website/assets/115111861/a7508e51-3dda-4036-8b03-7eff44777152)
+
 
 
 
